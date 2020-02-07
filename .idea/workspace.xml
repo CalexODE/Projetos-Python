@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="777564b8-dfa3-4ec8-80b4-bb55294093f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/conexao.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SistemaERP.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1X7UPxAauUpwFsu6Hzu4FTAZRfO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Cython" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.SistemaERP">
+    <configuration name="SistemaERP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SistemaERP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conexao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conexao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SistemaERP" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.conexao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="777564b8-dfa3-4ec8-80b4-bb55294093f4" name="Default Changelist" comment="" />
+      <created>1580396609323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580396609323</updated>
+      <workItem from="1580396616417" duration="1881000" />
+      <workItem from="1580480432957" duration="3499000" />
+      <workItem from="1580914947709" duration="1334000" />
+      <workItem from="1580997717289" duration="4314000" />
+      <workItem from="1581004305550" duration="38000" />
+      <workItem from="1581086561378" duration="2297000" />
+      <workItem from="1581088958664" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="637" height="134" key="GridCell.Tab.0.bottom" timestamp="1581088867965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="134" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="1113" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
+    <state width="880" height="251" key="GridCell.Tab.0.bottom/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
+    <state width="637" height="134" key="GridCell.Tab.0.center" timestamp="1581088867965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="134" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="1113" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
+    <state width="880" height="251" key="GridCell.Tab.0.center/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
+    <state width="637" height="134" key="GridCell.Tab.0.left" timestamp="1581088867965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="134" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="1113" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
+    <state width="880" height="251" key="GridCell.Tab.0.left/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
+    <state width="637" height="134" key="GridCell.Tab.0.right" timestamp="1581088867965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="134" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="1113" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
+    <state width="880" height="251" key="GridCell.Tab.0.right/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
+    <state x="300" y="32" width="998" height="708" key="SettingsEditor" timestamp="1581002557621">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="298" y="32" width="998" height="708" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1580396819985" />
+    <state x="300" y="32" key="SettingsEditor/65.0.1301.768@65.0.1301.768" timestamp="1581002557621" />
+    <state x="415" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1581088961842">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="415" y="161" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581088961842" />
+    <state x="458" y="161" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1580480646055" />
+    <state x="460" y="161" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1581004313721" />
+    <state x="226" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1580481397094">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="226" y="64" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1580481397094" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$conexao.coverage" NAME="conexao Coverage Results" MODIFIED="1580915508325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$SistemaERP.coverage" NAME="SistemaERP Coverage Results" MODIFIED="1581088200598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$teste.coverage" NAME="teste Coverage Results" MODIFIED="1581000778156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
