@@ -122,6 +122,8 @@
       <workItem from="1581004305550" duration="38000" />
       <workItem from="1581086561378" duration="2297000" />
       <workItem from="1581088958664" duration="46000" />
+      <workItem from="1581517985252" duration="2876000" />
+      <workItem from="1581525665193" duration="311000" />
     </task>
     <servers />
   </component>
@@ -129,28 +131,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="134" key="GridCell.Tab.0.bottom" timestamp="1581088867965">
+    <state x="779" y="140" key="FileChooserDialogImpl" timestamp="1581525967545">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="134" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state x="779" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581525967545" />
+    <state width="688" height="124" key="GridCell.Tab.0.bottom" timestamp="1581522196078">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="124" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581522196078" />
     <state width="1113" height="185" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
     <state width="880" height="251" key="GridCell.Tab.0.bottom/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
-    <state width="637" height="134" key="GridCell.Tab.0.center" timestamp="1581088867965">
+    <state width="688" height="124" key="GridCell.Tab.0.center" timestamp="1581522196078">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="134" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="688" height="124" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581522196078" />
     <state width="1113" height="185" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
     <state width="880" height="251" key="GridCell.Tab.0.center/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
-    <state width="637" height="134" key="GridCell.Tab.0.left" timestamp="1581088867965">
+    <state width="688" height="124" key="GridCell.Tab.0.left" timestamp="1581522196077">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="134" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="688" height="124" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581522196077" />
     <state width="1113" height="185" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
     <state width="880" height="251" key="GridCell.Tab.0.left/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
-    <state width="637" height="134" key="GridCell.Tab.0.right" timestamp="1581088867965">
+    <state width="688" height="124" key="GridCell.Tab.0.right" timestamp="1581522196078">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="134" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581088867965" />
+    <state width="688" height="124" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581522196078" />
     <state width="1113" height="185" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1580483962051" />
     <state width="880" height="251" key="GridCell.Tab.0.right/65.0.1301.768@65.0.1301.768" timestamp="1581001286280" />
     <state x="300" y="32" width="998" height="708" key="SettingsEditor" timestamp="1581002557621">
@@ -158,10 +164,10 @@
     </state>
     <state x="298" y="32" width="998" height="708" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1580396819985" />
     <state x="300" y="32" key="SettingsEditor/65.0.1301.768@65.0.1301.768" timestamp="1581002557621" />
-    <state x="415" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1581088961842">
+    <state x="415" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1581525954785">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="415" y="161" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581088961842" />
+    <state x="415" y="161" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581525954785" />
     <state x="458" y="161" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1580480646055" />
     <state x="460" y="161" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1581004313721" />
     <state x="226" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1580481397094">
@@ -171,7 +177,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$conexao.coverage" NAME="conexao Coverage Results" MODIFIED="1580915508325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$SistemaERP.coverage" NAME="SistemaERP Coverage Results" MODIFIED="1581088200598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$SistemaERP.coverage" NAME="SistemaERP Coverage Results" MODIFIED="1581521332509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$teste.coverage" NAME="teste Coverage Results" MODIFIED="1581000778156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

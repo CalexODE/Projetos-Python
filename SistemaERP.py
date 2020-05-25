@@ -67,6 +67,15 @@ def cadastrarProdutos():
     except:
         print("Erro ao adicionar produto")
 
+def listarProdutos():
+    produtos = []
+    try:
+        with conexao.cursor() as cursor:
+            cursor.execute("select * from produtos")
+            produtosCadastrados = cursor.fetchall()
+            print(produtosCadastrados)
+    except:
+        print("erro ao consultar produtos")
 
 while not autentico:
     decisao = int(input(' 1 - Logar\n 2 - cadastrar\n: '))
@@ -86,8 +95,9 @@ if autentico:
     if usuarioSupremo == True:
         decisaoUser = 1
         while decisaoUser != 0:
-            decisaoUser = int(input(" 1 - Cadastrar produto\n 2 - ...\n 0 - Sair\n: "))
+            decisaoUser = int(input(" 1 - Cadastrar produto\n 2 - Consultar Produtos\n 3 - ...\n 0 - Sair\n: "))
 
             if decisaoUser == 1:
                 cadastrarProdutos()
-
+            elif decisaoUser == 2:
+                listarProdutos()
